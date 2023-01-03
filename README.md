@@ -1,6 +1,6 @@
 <h3>5n1ff3r</h3>
 <br>
-<i>Hello, there !</i>
+<i>Hello !</i>
 <p>
 Here I will store all the necessary files for the sniffer<br>
 to work on the Windows operating system.<br>
