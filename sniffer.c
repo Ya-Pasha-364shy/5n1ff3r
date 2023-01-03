@@ -1,7 +1,7 @@
-﻿#define APP_NAME		"sniffer"
-#define APP_DESC		"Sniffer example using libpcap/curl/pthread"
-#define APP_COPYRIGHT		"Copyright (c) 2021 The @myNameIsK1r4 and @bigger777
-#define APP_DISCLAIMER		"THERE IS ABSOLUTELY NO WARRANTY FOR THIS PROGRAM."
+#define APP_NAME                "sniffer"
+#define APP_DESC                "Sniffer example using libpcap/curl/pthread"
+#define APP_COPYRIGHT           "Copyright (c) 2021 The @myNameIsK1r4 and @bigger777"
+#define APP_DISCLAIMER          "THERE IS ABSOLUTELY NO WARRANTY FOR THIS PROGRAM."
 #define HAVE_STRUCT_TIMESPEC
 #define HAVE_REMOTE
 #include <pcap.h>
